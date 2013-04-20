@@ -7,3 +7,8 @@ For Skiena ["The Algorithm Design Manuala"][adm] example on page 239 gives the s
 
 [adm]:http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202
 
+Usage
+=====
+
+    ./sudoku < boards/skiena239.board
+
